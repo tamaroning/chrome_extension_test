@@ -1,0 +1,10 @@
+{
+	"name": "Destroyer",
+	"manifest_version": 3,
+	"version": "0.1",
+	"permissions": ["activeTab","scripting"],
+	"background": {
+		"service_worker": "main.js"
+	},
+	"action": {}
+}
